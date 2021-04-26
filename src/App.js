@@ -11,7 +11,7 @@ function App() {
     title:"RJ Techsol",
     },
     {
-      link:["Contact Us","Why Choose me?","About Me","a"]
+      link:["Contact Us","Why Choose me?","About Me"]
     }
   ]
  const [state,setstate] = useState("0");
