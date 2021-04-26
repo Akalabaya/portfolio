@@ -1,3 +1,5 @@
+This is portfolio app made with react and js with bootstrap and frontages omega icons you can 
+get live demore of website <a href="https://rjttechportfolio.herokuapp.com/">https://rjttechportfolio.herokuapp.com/</a>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
